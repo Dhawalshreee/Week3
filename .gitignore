@@ -1,20 +1,25 @@
-# ===== JetBrains IDE files =====
-/shelf/
-/workspace.xml
-/httpRequests/
-/dataSources/
-/dataSources.local.xml
-/.idea/
-
-# ===== Node.js =====
+# Node modules
 node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# ===== Environment variables =====
-.env
+# Build directories
+dist/
+build/
 
-# ===== System files =====
+# OS files
 .DS_Store
 Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+week3/week3
+week3/week3
